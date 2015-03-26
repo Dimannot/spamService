@@ -2,7 +2,7 @@ spamService
 ==============
 [![Build Status](https://travis-ci.org/jshemas/spamService.png?branch=master)](https://travis-ci.org/jshemas/spamService)
 
-A simple node module for checking for spam in user inputs. This module comes with a full list of spam words!
+spam-check-redis
 
 ### Installation
 ```
